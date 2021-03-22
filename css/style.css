@@ -49,6 +49,7 @@ header {
     text-transform: capitalize;
     padding: 0 20px;
     display: inline-block;
+	transition: .5s;
 }
 .menu ul li a:hover {
 	color: #0C66FF;
