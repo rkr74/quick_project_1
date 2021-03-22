@@ -47,7 +47,6 @@ header {
     color: #0F2656;
     text-decoration: none;
     text-transform: capitalize;
-    transition: .5s;
     padding: 0 20px;
     display: inline-block;
 }
